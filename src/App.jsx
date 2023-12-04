@@ -1,8 +1,7 @@
 import Jack from "./Components/Jack"
 
 
-function App() {
-  const [count, setCount] = useState(0)
+const App = () => {
 
   return (
     <>

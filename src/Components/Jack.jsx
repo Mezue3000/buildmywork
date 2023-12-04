@@ -2,7 +2,11 @@ import React from 'react'
 
 const Jack = () => {
   return (
-    <h1>Jack my guy</h1>
+
+    <div>
+       <h1>Welcome to my page</h1>
+       <button>Access me</button>
+    </div>
   )
 }
 
